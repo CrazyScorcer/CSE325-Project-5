@@ -1,0 +1,15 @@
+ColorSenor.c:17:6:clearStatusFlags	8	static
+ColorSenor.c:24:6:initI2C	8	static
+ColorSenor.c:51:6:TCFWait	8	static
+ColorSenor.c:57:6:IICIFWait	8	static
+ColorSenor.c:62:6:SendStart	8	static
+ColorSenor.c:67:6:RepeatStart	16	static
+ColorSenor.c:78:6:SendStop	8	static
+ColorSenor.c:86:6:clearIICIF	8	static
+ColorSenor.c:91:5:RxAK	8	static
+ColorSenor.c:97:6:I2C_WriteByte	16	static
+ColorSenor.c:140:6:Read_Block	40	static
+ColorSenor.c:218:6:setUpColorSensor	8	static
+ColorSenor.c:225:15:readColor	40	static
+ColorSenor.c:254:7:colorParse	16	static
+ColorSenor.c:264:7:colorSampler	48	static

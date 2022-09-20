@@ -1,0 +1,7 @@
+core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+Utilities.c:19:6:PORTC_PORTD_IRQHandler	8	static
+Utilities.c:30:6:init_switch	8	static
+Utilities.c:44:6:delayMS	16	static
+Utilities.c:57:6:delaySec	16	static
+Utilities.c:64:6:SW1Pressed	8	static
+Utilities.c:67:6:SW2Pressed	8	static

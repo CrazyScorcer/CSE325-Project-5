@@ -1,0 +1,5 @@
+MotorControls.c:19:6:init_motor	8	static
+MotorControls.c:49:6:init_left	8	static
+MotorControls.c:62:6:init_right	8	static
+MotorControls.c:75:6:motorControls	24	static
+MotorControls.c:109:6:movementStyle	24	static

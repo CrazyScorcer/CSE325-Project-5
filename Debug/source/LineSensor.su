@@ -1,0 +1,2 @@
+LineSensor.c:17:6:init_LineSensor	8	static
+LineSensor.c:44:5:readLineSensor	16	static

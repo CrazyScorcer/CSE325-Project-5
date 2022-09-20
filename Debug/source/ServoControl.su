@@ -1,0 +1,4 @@
+ServoControl.c:9:6:init_servo	8	static
+ServoControl.c:31:6:setServo	16	static
+ServoControl.c:43:6:init_sonar	8	static
+ServoControl.c:55:5:getDistance	40	static
